@@ -10,18 +10,18 @@ If you plan to contribute to the maintenance of the Goerli network by integratin
 
 # Requeriments:
 **Basics**
-
+```
 **OS:** Windows/Ubuntu/MacOS
 **CPU:** +2 Cores
 **RAM:** 8 GB
 **Storage:** 1 TB SSD/MVNe
 **Network:** +10 Mb/s bandwidth
-
+```
 **Recommended**
-
+```
 **OS:** Windows/Ubuntu/MacOS
 **CPU:** 4 Cores
 **RAM:** +16 GB
 **Storage:** +1 TB SSD/MVNe
 **Network:** +10 Mb/s bandwidth
-
+```
