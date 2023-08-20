@@ -25,8 +25,8 @@ If you plan to contribute to the maintenance of the Goerli network by integratin
 - **Storage:** +1 TB SSD/MVNe 
 - **Network:** 25 Mb/s bandwidth
 
-## Summary:
-### **Software used for the realization of the guide**
+### Summary:
+## **Software used for the realization of the guide**
 
 - Execution Client: Besu
 - Consensus Client: Teku
@@ -35,13 +35,13 @@ If you plan to contribute to the maintenance of the Goerli network by integratin
 - Staking-Deposit-CLI
 - MetaMask wallet.
 
-### Why were they my choice?
+## Why were they my choice?
 
 - **[Client Divesify](https://clientdiversity.org/)**
 - **They are one of the clients that consume less disk space according to: [CoinCashew](https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-mainnet/part-iii-tips/disk-usage-by-execution-consensus-client)**
 
 
-### Hardware used for the realization of the guide
+## Hardware used for the realization of the guide
 
 - **OS:** Ubuntu 22.04 LTS
 - **CPU:** 4 Cores
