@@ -1,7 +1,7 @@
 # Ethereum Validator Node using GCP
 Hi!, in the following link you will find everything you need to successfully deploy your Ethereum Validator Node in *Goerli* Testnet Network using *Teku/Besu* Clients as Consensus and Execution Clients respectively with the help of **Google Cloud Platform** services.
 
-### I invite you to read my Full article: [Full Article Here](https://medium.com/@kristhiann97).
+### Read My Full Article: [Full Article Here](https://medium.com/@kristhiann97).
 
 ### NOTE:
 Since the goal of this guide is to teach you how to Deploy the Server on GCP, and since I don't plan to keep the server for a long time, I will only use **500 GB of disk storage.**
