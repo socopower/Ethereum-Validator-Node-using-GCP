@@ -25,7 +25,7 @@ If you plan to contribute to the maintenance of the Goerli network by integratin
 - **Storage:** +1 TB SSD/MVNe 
 - **Network:** 25 Mb/s bandwidth
 
-### Summary:
+# Summary:
 ## **Software used for the realization of the guide**
 
 - Execution Client: Besu
