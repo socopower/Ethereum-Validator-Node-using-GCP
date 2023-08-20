@@ -33,6 +33,7 @@ If you plan to contribute to the maintenance of the Goerli network by integratin
 - Prometheus & Grafana
 - PuTTY
 - Staking-Deposit-CLI
+- MetaMask wallet.
 
 ### Why were they my choice?
 
