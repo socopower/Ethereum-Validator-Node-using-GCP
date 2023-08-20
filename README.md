@@ -28,8 +28,8 @@ If you plan to contribute to the maintenance of the Goerli network by integratin
 ## Summary:
 ### **Software used for the realization of the guide**
 
-- Execution Client Used: Besu
-- Consensus Client Used: Teku
+- Execution Client: Besu
+- Consensus Client: Teku
 - Prometheus & Grafana
 - PuTTY
 - Staking-Deposit-CLI
