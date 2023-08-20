@@ -3,10 +3,9 @@ Hi!, in the following link you will find everything you need to successfully dep
 
 ### Read My Full Article: [Full Article Here](https://medium.com/@kristhiann97/how-to-run-an-ethereum-validator-node-using-google-cloud-plataform-f1b8a2a5d5af).
 
-### NOTE:
-Since the goal of this guide is to teach you how to Deploy the Server on GCP, and since I don't plan to keep the server for a long time, I will only use **500 GB of disk storage.**
+### DISCLAIMER:
 
-If you plan to contribute to the maintenance of the Goerli network by integrating your own node, I recommend configuring your server with the following requirements.
+This guide was made after many hours of research on my part and later applied in the *goerli testnet*, I do not consider myself an expert in deploying nodes, if you do not understand something in the guide, Do not forget to review the resources that I will leave at the end of the guide.
 
 # Requeriments:
 ### **Basics**
