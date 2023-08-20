@@ -26,13 +26,13 @@ If you plan to contribute to the maintenance of the Goerli network by integratin
 - **Network:** 25 Mb/s bandwidth
 
 ## Summary:
-###Software used for the realization of the guide
+### **Software used for the realization of the guide**
 
-**Execution Client Used: Besu**
-**Consensus Client Used: Teku**
-**Prometheus & Grafana**
-**PuTTY**
-**Staking-Deposit-CLI**
+- Execution Client Used: Besu
+- Consensus Client Used: Teku
+- Prometheus & Grafana
+- PuTTY
+- Staking-Deposit-CLI
 
 ### Why were they my choice?
 
